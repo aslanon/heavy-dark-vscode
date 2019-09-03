@@ -1,0 +1,25 @@
+{
+  "name": "theme",
+  "author": {
+    "name": "aslanon"
+  },
+  "publisher": "onuraslan",
+  "displayName": "Heavy Dark",
+  "description": "Sidebar, editor background, title bar and tab group one colour. And status bar color is blue.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Heavy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Heavy Dark-color-theme.json"
+      }
+    ]
+  }
+}
