@@ -6,7 +6,7 @@
   "publisher": "onuraslan",
   "displayName": "Heavy Dark",
   "description": "Sidebar, editor background, title bar and tab group one colour. And status bar color is blue.",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "icon": "images/icon.png",
   "repository": "https://github.com/aslanon/heavy-dark-vscode",
   "engines": {
