@@ -12,4 +12,4 @@ or
 
 https://marketplace.visualstudio.com/items?itemName=OnurAslan.theme
 
-![](https://github.com/aslanon/heavy-dark-vscode/blob/master/screen.png?raw=true)
+![](https://github.com/aslanon/heavy-dark-vscode/blob/master/images/screen.png?raw=true)
